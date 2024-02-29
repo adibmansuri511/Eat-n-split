@@ -2,7 +2,9 @@
 ReactJs Practice Project
 
 ![eat-n-split-result-01](https://github.com/adibmansuri511/Eat-n-split/assets/135020831/20bbcb7b-99a3-4d1b-a892-b6818e3ede38)
+<hr>
 ![eat-n-split-result-02](https://github.com/adibmansuri511/Eat-n-split/assets/135020831/1b334bef-e354-49b7-aff3-3d2afc1e5fec)
+<hr>
 ![eat-n-split-result-03](https://github.com/adibmansuri511/Eat-n-split/assets/135020831/6ea39772-6d0e-4981-8d95-6576de1c8237)
 ![eat-n-split-result-04](https://github.com/adibmansuri511/Eat-n-split/assets/135020831/973f0fec-2ff3-489b-9374-f0ae9e3316d2)
 ![eat-n-split-result-05](https://github.com/adibmansuri511/Eat-n-split/assets/135020831/98309132-1815-4e2b-87ef-98988360f758)
